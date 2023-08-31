@@ -4693,7 +4693,7 @@ blockquote {
 }
 
 .brix---inner-container-600px---center {
-  max-width: 600px;
+  max-width: 800px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -7719,6 +7719,11 @@ blockquote {
     justify-content: center;
   }
 
+  .walsh-main-paragraph {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
   .walsh-text-burst-orange {
     background-size: auto 45%;
   }
@@ -9291,6 +9296,11 @@ blockquote {
     font-size: 2.25rem;
   }
 
+  .walsh-main-paragraph {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
   .walsh-text-burst-orange {
     background-size: auto 45%;
   }
@@ -10617,11 +10627,17 @@ blockquote {
   }
 
   .walsh-main-paragraph {
+    margin-left: 0;
+    margin-right: 0;
     font-size: 1em;
   }
 
   .walsh-text-burst-orange {
     background-size: auto 45%;
+  }
+
+  .walsh-heading-xxlarge-black {
+    font-size: 2em;
   }
 
   .walsh-title-tag {
